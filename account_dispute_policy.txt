@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2868
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 FIRSTBANK DISPUTE & FRAUD POLICY \'97 Effective January 2025\
+\
+1. Reporting unauthorized transactions:\
+   Customers must report unauthorized transactions within 60 days \
+   of the statement date to qualify for full reimbursement.\
+\
+2. Dispute process:\
+   - Step 1: Customer calls 1-800-FIRSTBANK or logs into online banking\
+   - Step 2: Bank opens investigation within 1 business day\
+   - Step 3: Provisional credit issued within 5 business days\
+   - Step 4: Final resolution within 45 days\
+\
+3. Debit card fraud liability:\
+   - Reported within 2 days: customer liability capped at $50\
+   - Reported between 2-60 days: customer liability capped at $500\
+   - Reported after 60 days: customer may bear full liability\
+\
+4. Credit card disputes:\
+   Governed by the Fair Credit Billing Act. Customer has 60 days \
+   from statement date to dispute a charge.\
+\
+5. Merchant disputes (non-fraud):\
+   Customer must attempt resolution with merchant first before \
+   filing a bank dispute.}
