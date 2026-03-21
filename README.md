@@ -17,8 +17,6 @@ Built as part of a deep-dive into enterprise AI reliability, this lab evaluates 
 
 These are the exact questions a Scale AI Solutions Engineer surfaces during a customer engagement.
 
----
-
 The failure modes documented here — hallucination, conflict blindness, and context contamination — are equally relevant to any AI answer engine operating at enterprise scale.
 
 ---
