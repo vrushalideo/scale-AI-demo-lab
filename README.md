@@ -19,6 +19,9 @@ These are the exact questions a Scale AI Solutions Engineer surfaces during a cu
 
 ---
 
+The failure modes documented here — hallucination, conflict blindness, and context contamination — are equally relevant to any AI answer engine operating at enterprise scale.
+
+---
 ## Lab Structure
 
 ```
